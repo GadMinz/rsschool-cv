@@ -57,9 +57,11 @@ const dividedBy = a => b => Math.floor(b / a)
 
 ## Experience
 Self-study in various courses from the Internet
+
 ## Education
 * Izhevsk Assembly College 2017
 * Kalashnikov Izhevsk State Technical University 2020
+
 ## Languages
 * Russian - Native
 * English - B1
