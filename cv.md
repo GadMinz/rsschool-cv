@@ -19,7 +19,7 @@ My life has always been connected with computers. I recently decided to learn fr
 * Git
 * Adobe Photoshop, Figma
 
-## Code example
+## Code example:
 >**Calculating with Functions KATA from CodeWars:** *This time we want to write calculations using functions and get the
 results. Let's have a look at some examples:*
 >```
@@ -37,6 +37,7 @@ results. Let's have a look at some examples:*
 >```
 >eight(dividedBy(three()));
 >```
+
 ```
 const zero = b => b ? b(0) : 0
 const one = b => b ? b(1) : 1
@@ -53,6 +54,7 @@ const minus = a => b => b - a
 const times = a => b => b * a
 const dividedBy = a => b => Math.floor(b / a)
 ```
+
 ## Experience
 Self-study in various courses from the Internet
 ## Education
